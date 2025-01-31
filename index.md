@@ -7,3 +7,8 @@ Below is my example code
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Below is a list I created
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
